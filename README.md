@@ -35,7 +35,7 @@ Ethereum will provide a secure, open-source, and decentralized network. The smar
 
 ## Architecture of the Dapp
 <img src="images/architecture.jpg" alt="architecture" width="700"/>
-![architecture](https://github.com/bhardwaj-ishita/Voting-Dapp/blob/main/images/architecture.jpg)
+![architecture](https://github.com/bhardwaj-ishita/Voting-Dapp/blob/main/images/architecture.jpg?raw=true)
 
 
 
