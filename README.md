@@ -35,6 +35,8 @@ Ethereum will provide a secure, open-source, and decentralized network. The smar
 
 ## Architecture of the Dapp
 <img src="images/architecture.jpg" alt="architecture" width="700"/>
+![alt text](https://github.com/bhardwaj-ishita/Voting-Dapp/blob/images/architecture.jpg?raw=true)
+
 
 ## Algorithm Used
 <img src="images/issue-governance-token.png" alt="Process of issuing the governance token for becoming an eligible voter" width="700"/>
