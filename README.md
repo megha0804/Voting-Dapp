@@ -6,6 +6,8 @@ Elections are increasingly being conducted electronically, and the threat of hac
 The Decentralized Application (DApp) is hosted on Web3.0. It is made using ReactJS which is used to design the landing pages of the DApp. React uses a library called Ether.js which helps in the integration and usage of smart contract functions. The DApp interacts with the blockchain (Ethereum network) with the help of the Metamask wallet, which acts as a signer as well as a provider to the decentralized application. 
 Ethereum will provide a secure, open-source, and decentralized network. The smart contracts will compile and run on the Ethereum Virtual Machine unique to the blockchain on their own. But on the developer side, Hardhat is used to test, compile, deploy and debug DApps. The DApp will be deployed on the Ropsten Testnework for the test run. To ensure anonymity we’ll be using furthermore libraries to ensure privacy and anonymity on the system.
 
+## Architecture of the Dapp
+![Architecture  - Research Paper (1)](https://user-images.githubusercontent.com/68750732/206275881-dd731062-eebc-411e-878f-bb055ab3912c.png)
 
 ## Technology Stack & Tools
 - Solidity (Writing Smart Contract)
@@ -33,9 +35,9 @@ Ethereum will provide a secure, open-source, and decentralized network. The smar
 ### 5. Run 1st script
 `$ truffle exec .\scripts\1_create_proposal.js`
 
-## Architecture of the Dapp
-![Architecture  - Research Paper (1)](https://user-images.githubusercontent.com/68750732/206275881-dd731062-eebc-411e-878f-bb055ab3912c.png)
-
 ## Algorithm Used
+![WhatsApp Image 2022-12-08 at 12 53 16 AM](https://user-images.githubusercontent.com/68750732/206276249-5c7a9eeb-1c4a-4d89-89ad-dbf91d70ac43.jpeg)
+![WhatsApp Image 2022-12-08 at 12 53 03 AM](https://user-images.githubusercontent.com/68750732/206276262-8ca47864-fbbb-4985-ad2f-44c554905e4a.jpeg)
+
 
 
