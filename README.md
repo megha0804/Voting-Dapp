@@ -2,7 +2,7 @@
 
 
 ## Architecture of the Dapp
-<img src="images/architecture.jpg" alt="architecture" width="700"/>
+<img src="https://github.com/bhardwaj-ishita/Voting-Dapp/blob/main/images/architecture.jpg" alt="architecture" width="700"/>
 
 ## Algorithm Used
 <img src="images/issue-governance-token.png" alt="Process of issuing the governance token for becoming an eligible voter" width="700"/>
