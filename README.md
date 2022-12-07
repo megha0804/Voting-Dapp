@@ -1,6 +1,13 @@
 # Voting Dapp
 
 
+## Architecture of the Dapp
+<img src="images/architecture.jpg" alt="architecture" width="700"/>
+
+## Algorithm Used
+<img src="images/issue-governance-token.png" alt="Process of issuing the governance token for becoming an eligible voter" width="700"/>
+<img src="images/cast-vote.png" alt="Process of casting the vote during the election" width="700"/>
+
 ## Technology Stack & Tools
 - Solidity (Writing Smart Contract)
 - Javascript (React & Testing)
@@ -27,10 +34,5 @@
 ### 5. Run 1st script
 `$ truffle exec .\scripts\1_create_proposal.js`
 
-## Architecture of the Dapp
-<img src="images/architecture.jpg" alt="architecture" width="700"/>
 
-## Algorithm Used
-<img src="images/issue-governance-token.png" alt="Process of issuing the governance token for becoming an eligible voter" width="700"/>
-<img src="images/cast-vote.png" alt="Process of casting the vote during the election" width="700"/>
 
