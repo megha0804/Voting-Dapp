@@ -1,10 +1,5 @@
 # Voting Dapp
-The traditional ways of voting using ballot papers and electoral voting using EVM (Electronic Voting Machine) receive harsh criticism for the little transparency and the high complexity of auditing the votes issued. Adding to this, the distrust of the voters is on the rise, as they are unsure of the integrity, reliability, and anonymity of their identity and the privacy of their votes. This is the reason why it is necessary to find a solution that allows us to gain the mutual trust of the voters and the election candidates.
 
-The Decentralized Application (DApp) is hosted on Web3.0. It is made using ReactJS which is used to design the landing pages of the DApp. React uses a library called Ether.js which helps in the integration and usage of smart contract functions. The DApp interacts with the blockchain (Ethereum network) with the help of the Metamask wallet, which acts as a signer as well as a provider to the decentralized application. 
-Ethereum will provide a secure, open-source, and decentralized network. The smart contracts will compile and run on the Ethereum Virtual Machine unique to the blockchain on their own. But on the developer side, Hardhat is used to test, compile, deploy and debug DApps. The DApp will be deployed on the Ropsten Testnetwork for the test run. To ensure anonymity we’ll be using furthermore libraries to ensure privacy and anonymity on the system.
-
-![Architecture  - Research Paper (1)](https://user-images.githubusercontent.com/68750732/206268597-a396aed3-b079-4711-bf91-926b6890f099.png)
 
 ## Technology Stack & Tools
 - Solidity (Writing Smart Contract)
