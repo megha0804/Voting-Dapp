@@ -34,13 +34,8 @@ Ethereum will provide a secure, open-source, and decentralized network. The smar
 `$ truffle exec .\scripts\1_create_proposal.js`
 
 ## Architecture of the Dapp
-<img src="images/architecture.jpg" alt="architecture" width="700"/>
-
 ![Architecture  - Research Paper (1)](https://user-images.githubusercontent.com/68750732/206275881-dd731062-eebc-411e-878f-bb055ab3912c.png)
 
-
-
 ## Algorithm Used
-<img src="images/issue-governance-token.png" alt="Process of issuing the governance token for becoming an eligible voter" width="700"/>
-<img src="images/cast-vote.png" alt="Process of casting the vote during the election" width="700"/>
+
 
